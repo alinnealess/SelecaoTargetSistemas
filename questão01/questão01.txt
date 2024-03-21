@@ -1,0 +1,1 @@
+O valor da variável soma ao final do processamento será igual a 91.

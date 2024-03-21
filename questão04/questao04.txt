@@ -1,0 +1,12 @@
+ligar o primeiro interruptor e esperar alguns minutos com o intuito de que a lâmpada esquente. 
+Após a espera, desligar o interruptor e ligar o segundo interruptor, e o mantenha ligado.
+
+A seguir, ir até a primeira sala da lâmpada (01) e verificar:
+-Se a lâmpada está acesa, ela corresponde ao interruptor 02.
+-Se ela estiver desligada e quente corresponde ao interruptor 01.
+-Se ela estiver desligada e e coma temperatura fria, corresponde ao interruptor 03.
+Ao fim você saberá qual interruptor corresponde a sala 01.
+
+Repetir o processo na sala 02, ja descartando o caso de uso da sala 01.
+
+Com a descoberta da sala 01 e sala 02 (duas idas as salas), a sala 03 é a opção que sobra.
